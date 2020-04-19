@@ -48,7 +48,7 @@ public class ControleRemoto extends Televisao{
             System.out.println("Canal digitado inexistente");
         }
         else{
-            canal = digito
+            canal = digito;
         }
     }
 
